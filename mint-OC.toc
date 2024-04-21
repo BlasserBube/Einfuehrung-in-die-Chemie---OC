@@ -1,0 +1,39 @@
+\contentsline {section}{\numberline {1}Organische Chemie}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Organische Molek\"ule}{2}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Darstellung von organischen Molek\"ulen}{2}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Benennung der organischen Molek\"ule}{2}{subsubsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.3}Regeln der Nomenklatur}{2}{subsubsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.2}Acidit\"at}{2}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Hybridisierung}{3}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Induktiver Effekt}{3}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Effekt von Solvatisierung}{3}{subsubsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.3}Basizit\"at}{3}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Hybridisierung}{3}{subsubsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.4}Alkane}{3}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Isomere}{3}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Reaktion der Alkane}{3}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}Reaktivit\"at \& Selektivit\"at}{4}{subsubsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.5}Alkene}{4}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}Elektrophile Addition an Alkenen}{4}{subsubsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.6}Alkine}{4}{subsection.1.6}%
+\contentsline {subsubsection}{\numberline {1.6.1}Nomenklatur}{4}{subsubsection.1.6.1}%
+\contentsline {subsubsection}{\numberline {1.6.2}Chemische Eigenschaften/Reaktionen}{4}{subsubsection.1.6.2}%
+\contentsline {subsection}{\numberline {1.7}Halogenalkane}{5}{subsection.1.7}%
+\contentsline {subsubsection}{\numberline {1.7.1}Nomenklatur}{5}{subsubsection.1.7.1}%
+\contentsline {subsubsection}{\numberline {1.7.2}Besondere Eigenschaften}{5}{subsubsection.1.7.2}%
+\contentsline {subsubsection}{\numberline {1.7.3}Verwendung}{5}{subsubsection.1.7.3}%
+\contentsline {subsubsection}{\numberline {1.7.4}Darstellung (Herstellung) von Halogenalkanen}{5}{subsubsection.1.7.4}%
+\contentsline {subsubsection}{\numberline {1.7.5}Reaktionen}{5}{subsubsection.1.7.5}%
+\contentsline {subsubsection}{\numberline {1.7.6}Isomere}{5}{subsubsection.1.7.6}%
+\contentsline {subsection}{\numberline {1.8}Chemie der Ether}{6}{subsection.1.8}%
+\contentsline {subsubsection}{\numberline {1.8.1}Reaktionen}{6}{subsubsection.1.8.1}%
+\contentsline {subsection}{\numberline {1.9}Aromatische Verbindungen}{6}{subsection.1.9}%
+\contentsline {subsubsection}{\numberline {1.9.1}Elektrophile aromatische Substitution}{7}{subsubsection.1.9.1}%
+\contentsline {subsubsection}{\numberline {1.9.2}Chlorierung von Benzol}{8}{subsubsection.1.9.2}%
+\contentsline {subsubsection}{\numberline {1.9.3}Friedl-Craft-Alkylierung}{8}{subsubsection.1.9.3}%
+\contentsline {subsubsection}{\numberline {1.9.4}Friedl-Craft-Acylierung}{9}{subsubsection.1.9.4}%
+\contentsline {subsection}{\numberline {1.10}Carbonylverbindungen}{9}{subsection.1.10}%
+\contentsline {subsubsection}{\numberline {1.10.1}Nomenklatur}{9}{subsubsection.1.10.1}%
+\contentsline {subsubsection}{\numberline {1.10.2}Grundlagen der Reaktivit\"at von Carboxylverbindungen}{10}{subsubsection.1.10.2}%
+\contentsline {subsubsection}{\numberline {1.10.3}Friedl-Craft-Aklylierung}{10}{subsubsection.1.10.3}%
+\contentsline {subsubsection}{\numberline {1.10.4}Keto-Enol-Tautomerie \& S\"aurekatalysierte Tautomerisierung}{11}{subsubsection.1.10.4}%
